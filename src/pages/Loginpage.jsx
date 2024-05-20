@@ -74,7 +74,7 @@ const Loginpage = () => {
       display="flex"
       justifyContent="center"
       alignItems="center"
-      backgroundColor="#acdcee"
+      backgroundColor="#16789d"
     >
       <Box
         backgroundColor="white"

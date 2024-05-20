@@ -37,7 +37,7 @@ const Navbar = () => {
         justifyContent: "center",
         alignItems: "center",
         width: "100%",
-        backgroundColor: "grey",
+        backgroundColor: "#c10808",
       }}
     >
       <h1
@@ -53,7 +53,7 @@ const Navbar = () => {
         <div style={{ marginLeft: "65%" }}>
           <Button
             borderRadius="10px"
-            backgroundColor="lightblue"
+            backgroundColor="green"
             onClick={handleLogout}
           >
             Logout
